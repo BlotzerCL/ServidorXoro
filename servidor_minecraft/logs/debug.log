@@ -3140,3 +3140,5 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06:12:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp iILive_Tv
 [06:12:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to iILive_Tv]
 [06:13:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv has made the advancement [Voluntary Exile]
+[06:13:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /seed
+[06:13:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera has made the advancement [Acquire Hardware]
