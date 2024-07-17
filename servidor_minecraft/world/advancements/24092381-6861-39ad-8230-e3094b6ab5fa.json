@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-07-17 05:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-07-17 04:13:28 +0000"
@@ -517,6 +523,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-07-17 05:41:16 +0000",
       "minecraft:phantom": "2024-07-17 04:36:11 +0000",
       "minecraft:zombie": "2024-07-17 05:21:15 +0000"
     },

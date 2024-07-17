@@ -203,3 +203,6 @@
 [05:26:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /tp iILive_Tv Carloxxx361
 [05:26:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Carloxxx361: Teleported iILive_Tv to Carloxxx361]
 [05:32:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy was slain by iILive_Tv
+[05:32:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /tp Pep_sy Carloxxx361
+[05:32:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Carloxxx361: Teleported Pep_sy to Carloxxx361]
+[05:42:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico has made the advancement [Not Today, Thank You]
