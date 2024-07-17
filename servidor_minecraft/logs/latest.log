@@ -122,3 +122,13 @@
 [04:15:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy has made the advancement [Sweet Dreams]
 [04:15:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Sweet Dreams]
 [04:16:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico was slain by entity.cave_dweller.cave_dweller
+[04:17:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera has made the advancement [Monster Hunter]
+[04:18:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: You logged in from another location
+[04:18:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game.
+[04:18:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[04:18:26] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:51078] logged in with entity id 8220 at ([world]-61.58323937509198, 91.0, -88.7087328414991)
+[04:18:36] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: You logged in from another location
+[04:18:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game.
+[04:18:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[04:18:36] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:57766] logged in with entity id 8307 at ([world]-61.58323937509198, 91.0, -88.7087328414991)
+[04:18:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico was blown up by Creeper
