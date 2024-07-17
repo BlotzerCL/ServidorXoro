@@ -98,3 +98,6 @@
 [02:17:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera left the game.
 [02:17:35] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
 [02:19:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[02:19:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: Timed out
+[02:19:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game.
+[02:19:58] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
