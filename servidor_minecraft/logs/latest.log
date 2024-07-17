@@ -105,3 +105,20 @@
 [04:05:48] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: Disconnecting com.mojang.authlib.GameProfile@3ee3c3bb[id=24092381-6861-39ad-8230-e3094b6ab5fa,name=churrasquitorico,properties={},legacy=false] (/127.0.0.1:53064): Took too long to log in
 [04:05:48] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@3ee3c3bb[id=24092381-6861-39ad-8230-e3094b6ab5fa,name=churrasquitorico,properties={},legacy=false] (/127.0.0.1:53064) lost connection: Took too long to log in
 [04:05:48] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[04:06:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[04:07:02] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> donde tan cabros
+[04:07:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico joined the game
+[04:07:34] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: churrasquitorico[/127.0.0.1:44272] logged in with entity id 2687 at ([world]-7.5, 90.0, 6.5)
+[04:09:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv has made the advancement [Hot Stuff]
+[04:09:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico has made the advancement [Getting an Upgrade]
+[04:10:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[04:12:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: You logged in from another location
+[04:12:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game.
+[04:12:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[04:12:34] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:41972] logged in with entity id 5299 at ([world]-96.69999998807907, 76.0, -86.76323773904154)
+[04:12:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy has made the advancement [Suit Up]
+[04:15:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp churrasquitorico
+[04:15:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to churrasquitorico]
+[04:15:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy has made the advancement [Sweet Dreams]
+[04:15:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Sweet Dreams]
+[04:16:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico was slain by entity.cave_dweller.cave_dweller
