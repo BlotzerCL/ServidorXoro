@@ -159,3 +159,16 @@
 [04:47:45] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer]: <PIPORELOKO> 162
 [04:49:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico fell from a high place
 [04:49:40] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer]: <iILive_Tv> minecraft >>>>>>>>>>>< elden ring
+[04:54:41] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: Disconnecting com.mojang.authlib.GameProfile@45d2666[id=2fb91b52-85b3-3804-9e82-e3211149ccb6,name=Nattanntan,properties={},legacy=false] (/127.0.0.1:38098): Took too long to log in
+[04:54:41] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@45d2666[id=2fb91b52-85b3-3804-9e82-e3211149ccb6,name=Nattanntan,properties={},legacy=false] (/127.0.0.1:38098) lost connection: Took too long to log in
+[04:54:41] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[04:55:06] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: Disconnecting com.mojang.authlib.GameProfile@73e6be2d[id=2fb91b52-85b3-3804-9e82-e3211149ccb6,name=Nattanntan,properties={},legacy=false] (/127.0.0.1:59866): Took too long to log in
+[04:55:06] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@73e6be2d[id=2fb91b52-85b3-3804-9e82-e3211149ccb6,name=Nattanntan,properties={},legacy=false] (/127.0.0.1:59866) lost connection: Took too long to log in
+[04:55:06] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[04:55:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Nattanntan joined the game
+[04:55:53] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Nattanntan[/127.0.0.1:50524] logged in with entity id 29233 at ([world]-5.5, 88.0, 6.5)
+[04:56:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: iILive_Tv lost connection: Timed out
+[04:56:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv left the game
+[04:57:14] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer]: <PIPORELOKO> -333,114
+[05:00:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv joined the game
+[05:00:16] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: iILive_Tv[/127.0.0.1:48912] logged in with entity id 31148 at ([world]-89.69999998807907, -54.0, -572.8174434098738)
