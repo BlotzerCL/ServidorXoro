@@ -214,3 +214,19 @@
 [05:53:11] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer]: <Nattanntan> ./borrar
 [05:58:31] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@3b801751[id=a869f403-f08c-3bf6-8d0f-b7e8cf557419,name=Tulepera,properties={},legacy=false] (/127.0.0.1:46524) lost connection: Timed out
 [06:01:57] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> dante ql
+[06:06:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera joined the game
+[06:06:51] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:34108] logged in with entity id 58010 at ([world]-82.53561814596021, 85.0, -17.108661989565295)
+[06:07:02] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@189cb100[id=a869f403-f08c-3bf6-8d0f-b7e8cf557419,name=Tulepera,properties={},legacy=false] (/127.0.0.1:37404) lost connection: Timed out
+[06:07:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp Carloxxx361
+[06:07:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to Carloxxx361]
+[06:10:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico tried to swim in lava
+[06:11:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera has made the advancement [Suit Up]
+[06:11:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /gamemode survival
+[06:11:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Set own game mode to Survival Mode]
+[06:11:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera burned to death
+[06:12:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp iILive_Tv
+[06:12:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to iILive_Tv]
+[06:12:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera tried to swim in lava
+[06:12:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp iILive_Tv
+[06:12:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to iILive_Tv]
+[06:13:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv has made the advancement [Voluntary Exile]
