@@ -73,3 +73,133 @@
 [00:35:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
 [00:35:30] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:54940] logged in with entity id 4460 at ([world]67.20090313449548, 104.0, -9.699999988079071)
 [00:35:41] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> hola
+[00:39:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Cover Me with Diamonds]
+[00:40:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera lost connection: Timed out
+[00:40:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera left the game.
+[00:40:40] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[00:41:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: Timed out
+[00:41:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game
+[00:41:30] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:41:33] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:01] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:06] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:12] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:15] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:17] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:21] [Server thread/INFO] [Console]: --------- Help: Index ---------------------------
+[00:42:21] [Server thread/INFO] [Console]: Use /help [n] to get page n of help.
+[00:42:21] [Server thread/INFO] [Console]: Aliases: Lists command aliases
+[00:42:21] [Server thread/INFO] [Console]: Bukkit: All commands for Bukkit
+[00:42:21] [Server thread/INFO] [Console]: Minecraft: All commands for Minecraft
+[00:42:21] [Server thread/INFO] [Console]: /advancement: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /attribute: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /backupworld: Create a backup for your world
+[00:42:21] [Server thread/INFO] [Console]: /ban: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /ban-ip: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /banlist: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /bans: Mohist's command
+[00:42:21] [Server thread/INFO] [Console]: /bossbar: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /clear: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /clone: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /config: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /damage: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /data: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /datapack: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /debug: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /defaultgamemode: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /deop: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /difficulty: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /dump: Global cache, displays the local information you need
+[00:42:21] [Server thread/INFO] [Console]: /effect: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /enchant: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /execute: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /experience: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /fill: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /fillbiome: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /forceload: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /forge: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /function: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /gamemode: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /gamerule: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /getpluginlist: Display your plugin list on Hastebin
+[00:42:21] [Server thread/INFO] [Console]: /give: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /help: Shows the help menu
+[00:42:21] [Server thread/INFO] [Console]: /item: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /items: Mohist provides item editing commands
+[00:42:21] [Server thread/INFO] [Console]: /jfr: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /kick: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /kill: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /list: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /locate: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /loot: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /me: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /minecraft:help: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /minecraft:reload: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /mohist: Mohist related commands
+[00:42:21] [Server thread/INFO] [Console]: /msg: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /op: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /pardon: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /pardon-ip: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /particle: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /perf: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /permission: Permission console
+[00:42:21] [Server thread/INFO] [Console]: /ping: 
+[00:42:21] [Server thread/INFO] [Console]: /place: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /playsound: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /plugin: Plugin console
+[00:42:21] [Server thread/INFO] [Console]: /plugins: Gets a list of plugins running on the server
+[00:42:21] [Server thread/INFO] [Console]: /recipe: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /reload: Reloads the server configuration and plugins
+[00:42:21] [Server thread/INFO] [Console]: /return: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /ride: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /save-all: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /save-off: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /save-on: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /say: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /schedule: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /scoreboard: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /seed: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /setblock: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /setidletimeout: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /setworldspawn: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /shows: Mohist shows commands
+[00:42:21] [Server thread/INFO] [Console]: /spawnpoint: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /spectate: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /spigot: Spigot related commands
+[00:42:21] [Server thread/INFO] [Console]: /spreadplayers: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /stop: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /stopsound: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /summon: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tag: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /team: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /teammsg: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /teleport: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tell: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tellraw: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /time: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /title: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tm: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tp: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /tps: Gets the current ticks per second for the server
+[00:42:21] [Server thread/INFO] [Console]: /trigger: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /version: Gets the version of this server including any plugins in use
+[00:42:21] [Server thread/INFO] [Console]: /w: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /warps: Warps Manager.
+[00:42:21] [Server thread/INFO] [Console]: /weather: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /whitelist: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /worldborder: A Mojang provided command.
+[00:42:21] [Server thread/INFO] [Console]: /worlds: World Manager.
+[00:42:21] [Server thread/INFO] [Console]: /xp: A Mojang provided command.
+[00:42:34] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:42:36] [Server thread/INFO] [Console]: Unknown command. Type "/help" for help.
+[00:45:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[00:45:25] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:54840] logged in with entity id 5012 at ([world]61.963861347463165, -4.0, -2.7892981146067752)
+[00:45:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[00:45:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[00:45:57] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[00:47:19] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /time set day
+[00:47:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Carloxxx361: Set the time to 1000]
+[00:47:24] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> dante te odio
+[00:47:25] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> ctm
+[00:47:30] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> si lees esto
+[00:47:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
