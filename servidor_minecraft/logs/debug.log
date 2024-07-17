@@ -2944,3 +2944,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05:42:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
 [05:42:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
 [05:42:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico has made the advancement [Not Today, Thank You]
+[05:43:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico was blown up by Creeper
+[05:47:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
+[05:47:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
+[05:52:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
+[05:52:02] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
+[05:52:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Voluntary Exile]
