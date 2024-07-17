@@ -191,3 +191,14 @@
 [05:15:49] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> ?
 [05:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Cover Me with Diamonds]
 [05:20:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Nattanntan has made the advancement [Monster Hunter]
+[05:22:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: iILive_Tv lost connection: Timed out
+[05:22:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv left the game.
+[05:22:08] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[05:22:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Nattanntan has made the advancement [Getting an Upgrade]
+[05:23:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv joined the game
+[05:23:29] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: iILive_Tv[/127.0.0.1:40102] logged in with entity id 44229 at ([world]-158.72291283484066, -51.0, -569.9650515882772)
+[05:23:48] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer]: <PIPORELOKO> -356,-44
+[05:24:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[05:24:55] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer]: <churrasquitorico> ?
+[05:26:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /tp iILive_Tv Carloxxx361
+[05:26:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Carloxxx361: Teleported iILive_Tv to Carloxxx361]

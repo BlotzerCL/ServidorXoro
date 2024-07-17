@@ -607,7 +607,8 @@
     "criteria": {
       "cooked_porkchop": "2024-07-17 03:50:04 +0000",
       "cooked_mutton": "2024-07-17 03:36:20 +0000",
-      "golden_apple": "2024-07-17 05:08:58 +0000"
+      "golden_apple": "2024-07-17 05:08:58 +0000",
+      "salmon": "2024-07-17 05:20:43 +0000"
     },
     "done": false
   },
@@ -860,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-07-17 05:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-07-17 04:29:29 +0000"
@@ -896,9 +903,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-07-17 05:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2024-07-17 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-07-17 05:19:53 +0000"
     },
     "done": true
   },
