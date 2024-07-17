@@ -182,3 +182,12 @@
 [05:06:30] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: iILive_Tv[/127.0.0.1:57058] logged in with entity id 35037 at ([world]-90.69999998807907, -54.0, -575.0440179420482)
 [05:07:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /seed
 [05:07:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Nattanntan has made the advancement [Stone Age]
+[05:12:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: iILive_Tv lost connection: Timed out
+[05:12:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv left the game.
+[05:12:46] [Server thread/WARN] [net.minecraft.network.Connection]: handleDisconnection() called twice
+[05:13:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv joined the game
+[05:13:23] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: iILive_Tv[/127.0.0.1:35042] logged in with entity id 40182 at ([world]-140.53638081573376, -48.0, -580.3679802212982)
+[05:15:38] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer]: <Nattanntan> JAIME
+[05:15:49] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer]: <Carloxxx361> ?
+[05:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 has made the advancement [Cover Me with Diamonds]
+[05:20:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Nattanntan has made the advancement [Monster Hunter]
