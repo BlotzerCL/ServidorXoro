@@ -1119,3 +1119,5 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01:02:53] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:58030] logged in with entity id 338 at ([world]59.09324690795905, -7.0, -5.368332920538082)
 [01:07:40] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
 [01:07:40] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
+[01:12:40] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
+[01:12:40] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
