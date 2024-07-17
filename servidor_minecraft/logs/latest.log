@@ -132,3 +132,22 @@
 [04:18:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
 [04:18:36] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:57766] logged in with entity id 8307 at ([world]-61.58323937509198, 91.0, -88.7087328414991)
 [04:18:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico was blown up by Creeper
+[04:19:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 lost connection: Timed out
+[04:19:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 left the game
+[04:19:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[04:19:47] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:39692] logged in with entity id 9006 at ([world]-61.58323937509198, 91.0, -88.7087328414991)
+[04:21:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp Pep_sy
+[04:21:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to Pep_sy]
+[04:21:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera has made the advancement [Stone Age]
+[04:22:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera lost connection: Timed out
+[04:22:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera left the game
+[04:25:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico fell from a high place
+[04:26:39] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer]: <Pep_sy> -64
+[04:26:50] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer]: <Pep_sy> -64 -89
+[04:27:11] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer]: <churrasquitorico> t
+[04:27:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico has made the advancement [Stone Age]
+[04:29:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy has made the advancement [Not Today, Thank You]
+[04:29:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Pep_sy has made the advancement [Take Aim]
+[04:34:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: iILive_Tv has made the advancement [Sneak 100]
+[04:36:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: churrasquitorico has made the advancement [Monster Hunter]
+[04:37:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: PIPORELOKO has made the advancement [Take Aim]
