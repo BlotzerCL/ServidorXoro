@@ -1,70 +1,77 @@
-[01:02:13] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01:02:13] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[01:02:13] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01:02:13] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServidorXoro/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23113!/ Service=ModLauncher Env=SERVER
-[01:02:14] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: Found 1 dependencies adding them to mods collection
-[01:02:15] [main/INFO] [mixin]: Compatibility level set to JAVA_17
-[01:02:15] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forgeserver' with arguments [nogui]
-[01:02:21] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
-[01:02:21] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 47.3.5, for MC 1.20.1 with MCP 20230612.114412
-[01:02:21] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v47.3.5 Initialized
-[01:02:21] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: NeoForge v47.1.105 Initialized
-[01:02:21] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
-[01:02:22] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec]: Configuration file /workspaces/ServidorXoro/servidor_minecraft/config/knocker.toml is not correct. Correcting
-[01:02:22] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01:02:22] [main/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01:02:23] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:02:25] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 7 recipes
-[01:02:25] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1271 advancements
-[01:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.1
-[01:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[01:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[01:02:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
-[01:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[01:02:26] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
-[01:02:26] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.1-792 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT, Forge version 47.3.5, NeoForge version 47.1.105)
-[01:02:27] [Server thread/INFO] [Minecraft]: Debug logging is enabled
-[01:02:27] [Server thread/INFO] []: Server Ping Player Sample Count: 20
-[01:02:27] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
-[01:02:27] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec]: Configuration file ./world/serverconfig/cave_dweller-server.toml is not correct. Correcting
-[01:02:27] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller]: Server configuration has been reloaded
-[01:02:27] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec]: Configuration file ./world/serverconfig/gravestone-server.toml is not correct. Correcting
-[01:02:27] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller]: Server configuration has been reloaded
-[01:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[01:02:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
-[01:02:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:33] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:34] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:34] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 36%
-[01:02:35] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 4970 ms
-[01:02:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_end
-[01:02:36] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:36] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:36] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:36] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 7%
-[01:02:37] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 94%
-[01:02:37] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2017 ms
-[01:02:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_nether
-[01:02:38] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:38] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:38] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
-[01:02:38] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 1%
-[01:02:39] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 86%
-[01:02:39] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2047 ms
-[01:02:39] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.1
-[01:02:39] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
-[01:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (12.434s)! For help, type "help"
-[01:02:40] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
-[01:02:40] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
-[01:02:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera joined the game
-[01:02:49] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:58028] logged in with entity id 297 at ([world]59.09324690795905, -6.987148104292835, -5.368332920538082)
-[01:02:53] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera lost connection: You logged in from another location
-[01:02:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera left the game.
-[01:02:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera joined the game
-[01:02:53] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:58030] logged in with entity id 338 at ([world]59.09324690795905, -7.0, -5.368332920538082)
+[01:43:13] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01:43:13] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[01:43:13] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01:43:13] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServidorXoro/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23113!/ Service=ModLauncher Env=SERVER
+[01:43:13] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: Found 1 dependencies adding them to mods collection
+[01:43:15] [main/INFO] [mixin]: Compatibility level set to JAVA_17
+[01:43:15] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forgeserver' with arguments [nogui]
+[01:43:21] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
+[01:43:21] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 47.3.5, for MC 1.20.1 with MCP 20230612.114412
+[01:43:21] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v47.3.5 Initialized
+[01:43:21] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: NeoForge v47.1.105 Initialized
+[01:43:21] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
+[01:43:22] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:43:22] [main/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:43:23] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:43:25] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 7 recipes
+[01:43:26] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1271 advancements
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.1
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[01:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:43:26] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
+[01:43:26] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.1-792 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT, Forge version 47.3.5, NeoForge version 47.1.105)
+[01:43:27] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[01:43:27] [Server thread/INFO] []: Server Ping Player Sample Count: 20
+[01:43:27] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[01:43:27] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller]: Server configuration has been reloaded
+[01:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:43:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:33] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:34] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:34] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 14%
+[01:43:35] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 4872 ms
+[01:43:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_end
+[01:43:35] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:35] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:36] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 2%
+[01:43:36] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 15%
+[01:43:36] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1776 ms
+[01:43:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_nether
+[01:43:37] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:37] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:38] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:38] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:43:38] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 86%
+[01:43:39] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2101 ms
+[01:43:39] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.1
+[01:43:39] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[01:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (11.909s)! For help, type "help"
+[01:43:39] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
+[01:43:39] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[01:43:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera joined the game
+[01:43:45] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:58022] logged in with entity id 264 at ([world]94.30131450501455, 101.0, -192.2122546469334)
+[01:43:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Carloxxx361 joined the game
+[01:43:46] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Carloxxx361[/127.0.0.1:58044] logged in with entity id 348 at ([world]96.37223822950743, 81.0, 1.300000011920929)
+[01:43:53] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp car
+[01:44:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp Carloxxx361
+[01:44:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to Carloxxx361]
+[01:49:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /ping
+[01:49:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera lost connection: You logged in from another location
+[01:49:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera left the game.
+[01:49:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tulepera joined the game
+[01:49:34] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tulepera[/127.0.0.1:42924] logged in with entity id 1415 at ([world]81.11415972710778, 114.53547699414244, -48.02190710471813)
+[01:49:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /tp Carloxxx361
+[01:49:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Teleported Tulepera to Carloxxx361]
+[01:50:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tulepera issued server command: /time set night
+[01:50:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tulepera: Set the time to 13000]
+[01:50:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Carloxxx361 issued server command: /time set day
+[01:50:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Carloxxx361: Set the time to 1000]
